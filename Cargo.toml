@@ -2,8 +2,10 @@
 name = "reflex-arc"
 version = "0.1.0"
 edition = "2021"
-description = "Automatic cognitive reflexes — stimulus→response mapping with priority chains, monitoring, and suppression"
+description = "Reflex arc pattern for agent cognition — stimulus detection, threshold gating, and fast response"
 license = "MIT"
+keywords = ["reflex", "agent", "stimulus", "response", "cognition"]
+categories = ["algorithms", "data-structures"]
 repository = "https://github.com/SuperInstance/reflex-arc"
 
 [dependencies]
