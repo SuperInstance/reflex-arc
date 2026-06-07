@@ -1,0 +1,9 @@
+[package]
+name = "reflex-arc"
+version = "0.1.0"
+edition = "2021"
+description = "Automatic cognitive reflexes — stimulus→response mapping with priority chains, monitoring, and suppression"
+license = "MIT"
+repository = "https://github.com/SuperInstance/reflex-arc"
+
+[dependencies]
